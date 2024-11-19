@@ -3,7 +3,7 @@
 ### Learn from sajjat sir
 
 `home` hello
-```
+```c
 #include<stdio.h>
 int main( )
 {
